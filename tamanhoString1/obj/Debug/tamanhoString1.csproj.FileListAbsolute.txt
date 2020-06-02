@@ -1,0 +1,6 @@
+C:\Users\vinicius.fernandes\source\repos\tamanhoString1\tamanhoString1\bin\Debug\tamanhoString1.exe.config
+C:\Users\vinicius.fernandes\source\repos\tamanhoString1\tamanhoString1\bin\Debug\tamanhoString1.exe
+C:\Users\vinicius.fernandes\source\repos\tamanhoString1\tamanhoString1\bin\Debug\tamanhoString1.pdb
+C:\Users\vinicius.fernandes\source\repos\tamanhoString1\tamanhoString1\obj\Debug\tamanhoString1.csprojAssemblyReference.cache
+C:\Users\vinicius.fernandes\source\repos\tamanhoString1\tamanhoString1\obj\Debug\tamanhoString1.exe
+C:\Users\vinicius.fernandes\source\repos\tamanhoString1\tamanhoString1\obj\Debug\tamanhoString1.pdb
